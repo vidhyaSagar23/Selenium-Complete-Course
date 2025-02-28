@@ -26,6 +26,5 @@ public class TestStaticDropDowns {
         staticDropDown.selectByValue("AED");
         Thread.sleep(1000);
         staticDropDown.selectByIndex(0);
-
    }
 }
